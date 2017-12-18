@@ -1,0 +1,15 @@
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\bin\Debug\SQLStatementGenerator.exe.config
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\bin\Debug\SQLStatementGenerator.exe
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\bin\Debug\SQLStatementGenerator.pdb
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\SQLStatementGenerator.csprojResolveAssemblyReference.cache
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\MainWindow.g.cs
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\App.g.cs
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\SQLStatementGenerator_MarkupCompile.cache
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\SQLStatementGenerator_MarkupCompile.lref
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\MainWindow.baml
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\SQLStatementGenerator.g.resources
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\SQLStatementGenerator.Properties.Resources.resources
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\SQLStatementGenerator.csproj.GenerateResource.Cache
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\SQLStatementGenerator.csproj.CoreCompileInputs.cache
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\SQLStatementGenerator.exe
+E:\NET\SQLStatementGenerator\SQLStatementGenerator\obj\Debug\SQLStatementGenerator.pdb
